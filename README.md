@@ -116,5 +116,3 @@ Location: West Bengal, India
 
 🐙 GitHub: https://github.com/LokenathBanerjee/
 
-Click below to open the live Streamlit app:
-[➡️ Go to Live App](https://annproject-9tqczex9rsd24ekkormade.streamlit.app/)
